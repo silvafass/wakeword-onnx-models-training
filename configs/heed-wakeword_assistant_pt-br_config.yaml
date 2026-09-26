@@ -1,0 +1,5 @@
+project: "assistant_pt-br"
+phrase: "Oi assistente"
+tts-pos: 400
+kokoro-pos: 300
+model-size: medium

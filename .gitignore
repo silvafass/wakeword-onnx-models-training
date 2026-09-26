@@ -1,0 +1,5 @@
+.venv
+models
+training
+resources
+hf.token
